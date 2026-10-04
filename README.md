@@ -1,4 +1,6 @@
-# rocketlib
+# rocketlib - DEPRECATED DO NOT USE
+
+This version of rocketlib had been used from 2024 Boarealis to 2026 Polaris, now this has been merged with canlib to form new rocketlib https://github.com/waterloo-rocketry/rocketlib
 
 rocketlib is Waterloo Rocketry's common firmware library, it's used on a wide range of MCUs including PIC18 and STM32H7.
 
